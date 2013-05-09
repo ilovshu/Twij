@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <appengine-web-app xmlns="http://appengine.google.com/ns/1.0">
 
-	<application>这里填AppID</application>
+	<application>operamini2012</application>
 	<version>1</version>
 	<threadsafe>true</threadsafe>
 
 	<env-variables>
-		<env-var name="ConsumerKey" value="这里填ConsumerKey" />
-		<env-var name="ConsumerSecret" value="这里填ConsumerSecret" />
-		<env-var name="AccessToken" value="这里填AccessToken" />
-		<env-var name="AccessTokenSecret" value="这里填AccessTokenSecret" />
+		<env-var name="ConsumerKey" value="LMPOdVTnUckZPe89sjhMYQ" />
+		<env-var name="ConsumerSecret" value="QsdMyJ5XQ43J0fYr7J8AUs4FwotQKVyUPdJtevqw5f4" />
+		<env-var name="AccessToken" value="107989719-yXKoDXJ8D1Rw0WylVm5BBfIfHqNkd3BftWv9yakj" />
+		<env-var name="AccessTokenSecret" value="kpRaMOOAZMdOWYU6ETMSmFlrIUj8OfMAUomdkcR150o" />
 	</env-variables>
 
 </appengine-web-app>
